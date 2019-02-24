@@ -1,0 +1,8 @@
+https://github.com/venustuspl/Java-Hello-Tomek.gitpublic class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Tomek, How are you?" +
+                "");
+    }
+}
+https://github.com/venustuspl
